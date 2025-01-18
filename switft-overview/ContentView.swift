@@ -13,7 +13,7 @@ struct ContentView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("For the first commit")
+            Text("For the secondary commit")
         }
         .padding()
     }
